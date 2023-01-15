@@ -36,7 +36,7 @@ now, I am looking for opportunities to work in AI/CG labs and clubs
                 framework with operands based on                               
                 CUDA, CuBlas and CUDNN.                                                                                                                      
 █ Repo:         https://github.com/DylanWaken/Dylann                           ░
-█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[x][_][o]░░░
 █ NAME:         Deep Learning Memory Palace                   ██████████████████                
@@ -46,7 +46,7 @@ now, I am looking for opportunities to work in AI/CG labs and clubs
                 hms, mathematical proof and experiment                         
                 code included                                                                                                                                
 █ Repo:         https://github.com/DylanWaken/DL_Memory_Palace                 ░
-█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[x][_][o]░░░
 █ NAME:         Embedded Similarity Calculator                ██████████████████                
@@ -56,7 +56,7 @@ now, I am looking for opportunities to work in AI/CG labs and clubs
                 through distance in the latent                                 
                 space of autoencoders                                                                                                                        
 █ Repo:         [NON CREATED YET]                                              ░
-█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[x][_][o]░░░
 █ NAME:         Trans-Fourier                                 ██████████████████                
@@ -65,7 +65,7 @@ now, I am looking for opportunities to work in AI/CG labs and clubs
                 discrete fourier transforms for cr-
                 eation of 2 dimensional SVG images                                                                                                                      
 █ Repo:         [NON CREATED YET]                                              ░
-█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[x][_][o]░░░
 █ NAME:         Sequential Engine of Algorithmic Neural Nets  ██████████████████
@@ -76,7 +76,7 @@ now, I am looking for opportunities to work in AI/CG labs and clubs
                 ,mathematical proof and experiment code
                 included                                                                                                                     
 █ Repo:         https://github.com/SeanEngine                                  ░
-█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
+█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
 ```
 ### \> Preferences_
 ```text

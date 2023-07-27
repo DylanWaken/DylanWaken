@@ -10,7 +10,7 @@
 ```text
 █ Name:             Dylan Sun                      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 █ At:               University of Southern California              ░░░░░░░░░░░░░
-█ Learning:         Computer Science, Applied Mathematics        ░░░░░░░░░░░░░░░
+█ Learning:         Computer Science for Games                   ░░░░░░░░░░░░░░░
 █ And like:         Concept art                         ░░░░░░░░░░░░░░░░░░░░░░░░
 █ Doing Research:   [Computer Graphics] [Machine Learning]    ░░░░░░░░░░░░░░░░░░
 █ Find me at:       dylansun@usc.edu                                    ░░░░░░░░

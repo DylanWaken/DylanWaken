@@ -49,13 +49,13 @@ now, I am looking for opportunities to work in AI/CG labs and clubs
 █ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[x][_][o]░░░
-█ NAME:         Embedded Similarity Calculator                ██████████████████                
+█ NAME:         Single View SSDNeRF                           ██████████████████                
 █ STATUS: [▶]                                                                  ░
-█ DESCRIPTION:  A tool for representing semantic                               ░
-                similarity (language and logic)                                
-                through distance in the latent                                 
-                space of autoencoders                                                                                                                        
-█ Repo:         [NON CREATED YET]                                              ░
+█ DESCRIPTION:  Single-view single staged 3 dimensional                        ░ 
+                NeRF diffusion models with Triplane latent
+                representation. Based on Code-NeRF                                
+                                                                                                                                                     
+█ Repo:         [PRIVATE BEFORE PUBLICATION]                                   ░
 █ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[x][_][o]░░░

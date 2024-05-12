@@ -29,53 +29,10 @@ now, I am looking for opportunities to work in AI/CG labs and clubs
 ```
 ```text
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[x][_][o]░░░
-█ NAME:         Dynamic Lightweight framework for Algorithmic ██████████████████                
-█               Neural Networks (Dy.L.A.N.N)                                   ░
+█ NAME:         Universal Field Latent Representation         ██████████████████                
 █ STATUS: [▶]                                                                  ░
-█ DESCRIPTION:  The lightweight assembly-like ML                               
-                framework with operands based on                               
-                CUDA, CuBlas and CUDNN.                                                                                                                      
+█ DESCRIPTION:  The images for 3d space                                                                                                                     
 █ Repo:         https://github.com/DylanWaken/Dylann                           ░
-█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
-
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[x][_][o]░░░
-█ NAME:         Deep Learning Memory Palace                   ██████████████████                
-█ STATUS: [▶]                                                                  ░
-█ DESCRIPTION:  The Obsidian repository of my learning                         ░
-                notes regarding deep learning algorit-                         
-                hms, mathematical proof and experiment                         
-                code included                                                                                                                                
-█ Repo:         https://github.com/DylanWaken/DL_Memory_Palace                 ░
-█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
-
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[x][_][o]░░░
-█ NAME:         Single View SSDNeRF                           ██████████████████                
-█ STATUS: [▶]                                                                  ░
-█ DESCRIPTION:  Single-view single staged 3 dimensional                        ░ 
-                NeRF diffusion models with Triplane latent
-                representation. Based on Code-NeRF                                
-                                                                                                                                                     
-█ Repo:         [PRIVATE BEFORE PUBLICATION]                                   ░
-█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
-
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[x][_][o]░░░
-█ NAME:         Trans-Fourier                                 ██████████████████                
-█ STATUS: [✪]                                                                  ░
-█ DESCRIPTION:  The use of transformer models with 
-                discrete fourier transforms for cr-
-                eation of 2 dimensional SVG images                                                                                                                      
-█ Repo:         [NON CREATED YET]                                              ░
-█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
-
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[x][_][o]░░░
-█ NAME:         Sequential Engine of Algorithmic Neural Nets  ██████████████████
-█               (S.E.A.N.N)                                                    ░                
-█ STATUS: [■]                                                                  ░
-█ DESCRIPTION:  The Obsidian repository of my learning                         ░
-                notes regarding deep learning algorithms
-                ,mathematical proof and experiment code
-                included                                                                                                                     
-█ Repo:         https://github.com/SeanEngine                                  ░
 █ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
 ```
 ### \> Preferences_

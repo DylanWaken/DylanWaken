@@ -29,23 +29,22 @@ now, I am looking for opportunities to work in AI/CG labs and clubs
 ```
 ```text
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[x][_][o]░░░
-█ NAME:         Universal Field Latent Representation         ██████████████████                
+█ NAME:         Beta Splatting                                ██████████████████                
 █ STATUS: [▶]                                                                  ░
-█ DESCRIPTION:  The images for 3d space                                                                                                                     
-█ Repo:         https://github.com/DylanWaken/Dylann                           ░
+█ DESCRIPTION:  An deformable kernel for splatting based volumetric fields
+█               to model decoupled geometry and lighting components.                                                                                                                   
+█ Repo:         [Not Public Before Publication]                                ░
 █ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
 ```
 ### \> Preferences_
 ```text
 > I mostly work on Linux Platforms (ubuntu-amd64)
-> I code primarily in CUDA, C, and Python (SASS if necessary)
+> I code primarily in CUDA, C++, HLSL/GLSL, and Python
 > My research focuses recently are:
 
-- High Performance Computing (HPC) over GPGPU for machine learning [In Process] 
-  (Platform: CUDA)
-- Generative algorithms (GAN and Latent Diffusion) for 2-dimensional art 
-  creation [In Process]
-- Neural radiance fields (NeRF) for model completion [Pending]
+- Physics Based Inverse Graphics
+- Differentiable Volumetric Fields, Splats and Path Tracing
+- Data Driven Real Time Procedural Generation
 ``` 
 
 

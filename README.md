@@ -27,15 +27,6 @@ now, I am looking for opportunities to work in AI/CG labs and clubs
 ```text
 █ LEGEND : [▶] = Ongoing [■] = Ended, [▮▮] = Paused, [✪] = Pending
 ```
-```text
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░[x][_][o]░░░
-█ NAME:         Beta Splatting                                ██████████████████                
-█ STATUS: [▶]                                                                  ░
-█ DESCRIPTION:  An deformable kernel for splatting based volumetric fields
-█               to model decoupled geometry and lighting components.                                                                                                                   
-█ Repo:         [Not Public Before Publication]                                ░
-█ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤
-```
 ### \> Preferences_
 ```text
 > I mostly work on Linux Platforms (ubuntu-amd64)

@@ -34,13 +34,13 @@ DEFORMABLE BETA SPLATTING (DBS). - SIGGRAPH 2025 - Co-First Author
 
 + Deformable Beta SplaƋing (DBS) used Beta Kernels to learn complex geometry and view dependent colors
 + We achieve SOTA over all common view synthesis datasets with only half the parameters of 3D Gaussian SplaƋing
-+ Paper Link: hƅps://arxiv.org/abs/2501.18630, Interative Demo: hƅps://rongliu-leo.github.io/beta-splaƅing/
++ Paper Link: https://arxiv.org/abs/2501.18630, Interative Demo: https://rongliu-leo.github.io/beta-splaƅing/
 
 VIT-LENS: TOWARDS OMNI-MODAL REPRESENTATIONS. - CVPR 2024
 
 + ViT-Lens aligns diverse novel modalities with pretrained Vision Transformers.
 + We achieved SOTA on multiple understanding, zero-shot text and image generation tasks.
-+ Paper Link: hƅps://arxiv.org/abs/2311.16081,
++ Paper Link: https://arxiv.org/abs/2311.16081,
 
 ### \> Preferences_
 ```text

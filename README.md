@@ -17,16 +17,11 @@
 ____ INTRO _____|
 
      Hi, I am a Computer Science and Applied Mathematics student at the Univer-
-sity of Southern California. I am currently doing researches in Computer Graphics
-and Machine Learning. I am also interested in concept art and game design. For 
-now, I am looking for opportunities to work in AI/CG labs and clubs
+sity of Southern California. I currently work as an graphics researcher at the
+Hoyoverse company (the one behind Genshin Impact!)
 
 █ END OF BRIEF ◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢◤◢
 ``` 
-### \> Projects_
-```text
-█ LEGEND : [▶] = Ongoing [■] = Ended, [▮▮] = Paused, [✪] = Pending
-```
 
 ### \> Publications_
 
